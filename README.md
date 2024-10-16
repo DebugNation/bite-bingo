@@ -11,8 +11,13 @@ git clone https://github.com/nopyjf/bite-bingo.git
 ```bash
 npm install
 ```
+Command registration
+
+```bash
+node deploy-commands.js
+```
 To start your bot 
 
-```js
+```bash
 node index.js
 ```
