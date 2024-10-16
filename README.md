@@ -11,7 +11,7 @@ git clone https://github.com/DebugNation/bite-bingo.git
 ```bash
 npm install
 ```
-Command registration
+Command registration (Slash commands only need to be registered once, and updated when the definition (description, options etc) is changed.)
 
 ```bash
 node deploy-commands.js
